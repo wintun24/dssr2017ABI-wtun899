@@ -17,5 +17,5 @@
 ### * Share the knowledge
 
 # Project Team 
-### Conduct different area of task
+### Conduct different projects on placental relate disorders
 ### Weekly meeting and decide the plan for the week ahead
