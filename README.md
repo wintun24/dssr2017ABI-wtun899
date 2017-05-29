@@ -2,11 +2,11 @@
 
 ## Synosis
 
-# Effect of shear stress on placental vascular formation in Normal and IUGR placenta
+# Effects of shear stress on placental vascular formation in Normal and IUGR placenta
 
-### Plaenta is a unique organ that supplies oxygen and nutrients to the growing baby during pregnancy. Normal development of placental vascularture is crucial for normal development and well-beings of fetus.
-### Shear stress has been known to have an affect on functions of vascular endothelial cells from different organs. However, the role of shear stress in formation of new placental vessel (angiogensis) is not clearly understood. 
-### My project is to study how placental vascular morphology could affect on placental blood flow and shear stress and subsequently, how vascular shear stress could influence on placental endothelial cell function. This project will help us to give a better insight into the pathology of intra-uterine growht restriction (IUGR) which is one of the commonest preganancy related disorders around the world.
+### Plaenta is a unique organ that supplies oxygen and nutrients to the growing fetus during pregnancy. Normal development of placental vascularture is crucial for normal development and well-beings of fetus.
+### Shear stress has been known to have an effect on functions of vascular endothelial cells from different organs. However, the role of shear stress on placental endothelial cells and formation of new placental vessel (angiogensis) is not clearly understood. 
+### My project is to study how placental vascular morphology influences placental blood flow and shear stress and subsequently, how vascular shear stress could affect on placental endothelial cell function. This project will give a better insight into the pathology of intra-uterine growht restriction (IUGR) where placental vascular morphogy is known to be significantly impaired. 
 
 ## Motivation
 ### IUGR is defiend as a fetal birth weight less than 10th percentile of gestational age and about 2% of pregnant mothers are suffering from it . IUGR is associated with numerous medical issues during neonatal life such as cardiovascular and nuerological disorders. Moreover, previous research suggested that IUGR is also associated with Diabetes Mellitus in adult life. 
