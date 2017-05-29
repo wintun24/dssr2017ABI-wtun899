@@ -12,9 +12,9 @@
 ### Figure out how shear stress influence endothelial cell morphology and functions
 
 # Team agreement
-### * Clear communication *
-### * Set a definitive goal *
-### * Share the knowledge *
+### * Clear communication 
+### * Set a definitive goal
+### * Share the knowledge 
 
 # Project Team 
 ### Conduct different projects on placental relate disorders
