@@ -1,7 +1,5 @@
 
-==============
-Digital Skills
-==============
+
 ## Synosis
 
 # Effect of shear stress on placental vascular formation in Normal and IUGR placenta
