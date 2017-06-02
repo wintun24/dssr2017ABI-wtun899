@@ -15,6 +15,7 @@
 ### * Clear communication 
 ### * Set a definitive goal
 ### * Share the knowledge 
+### * Weekly meeting
 
 # Project Team 
 ### Conduct different projects on placental relate disorders
